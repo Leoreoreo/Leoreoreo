@@ -1,7 +1,8 @@
 ### Hi there, this is Leyang!👋
 - I'm a 2026' Notre Dame CS undergrad
 - I'm actively looking for intern/job oppotunities
-- Visit my [personal website](https://leoreoreo.github.io/)
+- [personal website](https://leoreoreo.github.io/)
+- [blog](https://github.com/Leoreoreo/myBlog)
 
 
 <!--
