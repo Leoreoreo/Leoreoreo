@@ -1,7 +1,7 @@
 ### Hi there, this is Leyang!👋
 - I'm a 2026' Notre Dame CS undergrad
 - I'm actively looking for intern/job oppotunities
-- My current projects: ProDive, non-visual-cooking, TIM
+- My current projects: p2pHashtable, ProDive, non-visual-cooking, TIM
 - [personal website](https://leoreoreo.github.io/)
 - [blog](https://github.com/Leoreoreo/myBlog)
 
