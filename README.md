@@ -1,13 +1,14 @@
 ### Hi there, this is Leyang!👋
 - I'm a 2026' Notre Dame CS undergrad
-- My current projects: PriSim
+- My current project(s): PriSim
 - [personal website](https://leoreoreo.github.io/)
-- [blog](https://github.com/Leoreoreo/myBlog)
+
+
 
 
 <!--
 **Leoreoreo/Leoreoreo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+- [blog](https://github.com/Leoreoreo/myBlog)
 Here are some ideas to get you started:
   
 - 🔭 I’m currently working on ...
