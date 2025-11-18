@@ -1,6 +1,6 @@
 ### Hi there, this is Leyang!👋
 - I'm a 2026' Notre Dame CS undergrad
-- My current project(s): PriSim
+- My current project(s): SP-BARBench
 - [personal website](https://leoreoreo.github.io/)
 
 
