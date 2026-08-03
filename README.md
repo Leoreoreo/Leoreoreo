@@ -1,6 +1,5 @@
 ### Hi there, this is Leyang!👋
-- I'm a 2026' Notre Dame CS undergrad
-- My current project(s): DP-SGD
+- First year CS PhD student at JHU
 - [personal website](https://leoreoreo.github.io/)
 
 
